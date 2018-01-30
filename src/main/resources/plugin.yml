@@ -1,0 +1,5 @@
+name: Miner
+version: ${project.version}
+main: me.supernuke.miner.Miner
+description: simple plugin for player's ore stats handled by MySQL.
+website: play.dungeonpvp.com
